@@ -93,14 +93,6 @@ Works without an API key using pre-programmed responses:
 - ✅ Content moderation
 - ❌ Limited to predefined answers
 
-## 📦 Building for Production
-
-```bash
-npm run build
-```
-
-Output files will be in the `dist/` folder, ready for deployment.
-
 ## 📁 Project Structure
 
 ```
