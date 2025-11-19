@@ -1,4 +1,4 @@
-# 🤖 Aura - RoboPark Intelligent Chatbot
+# 🤖 Aura - RoboPark's Chatbot
 
 **Copyright © 2024 Inker Robotics™. All Rights Reserved.**  
 **Developed by:** Prathyush N M
