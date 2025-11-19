@@ -19,10 +19,8 @@ This project is the exclusive property of **Inker Robotics™** and is protected
 
 - ✅ **Viewing** for educational purposes is permitted
 - ✅ **Reference** for learning and study
-- ✅ **Portfolio demonstration** with proper attribution to Prathyush N M and Inker Robotics™
 - ❌ **Commercial use** strictly prohibited without written permission
 - ❌ **Redistribution or modification** not allowed
-- ❌ **Use for competing businesses** prohibited
 
 # 🤖 Aura - RoboPark Intelligent Chatbot
 
